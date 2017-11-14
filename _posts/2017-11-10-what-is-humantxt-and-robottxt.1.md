@@ -18,6 +18,6 @@ This means every web robot is allowed acces to every area of the website. I conf
 ## human.txt
 The human.txt file is a intiative for getting to know the people who worked with creating a website. It is a text file (placed in the root folder of the website just like robot.txt) containing general information about the each member of team behind the website. Things like the persons role in the project, location, contact info etc. The file also contains a "thanks"-section and information about what tools where used during the creation of the website.
 
-Since this is an exercise and not a very extensive website, and I'm the only person creating the site, the human.txt file for this site doesn't contain that much information. Click the human.txt logo below to see it looks like.
+Since this is an exercise and not a very extensive website, and I'm the only person creating the site, the human.txt file for this site doesn't contain that much information. Click the human.txt logo below to see what it looks like.
 
 
