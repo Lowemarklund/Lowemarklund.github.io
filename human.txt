@@ -1,18 +1,17 @@
 
 /* TEAM */
                            
-Your title: Lowe Marklund         
-Site: lm222qb@student.lnu.se                    
-Twitter: lowemarklund                  
+Web designer: Lowe Marklund         
+Contact: lm222qb [at] student.lnu.se                    
+Twitter: @lowemarklund                  
 Location: Helsingborg, Sweden
 							
 /* THANKS */
 						
-Name: http://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/
+Site: http://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/
 
 /* SITE */
                           
-Last update: YYYY/MM/DD                           
-Standards: HTML5, CSS3                         
-Components: -                    
+Last update: 2017/11/20                           
+Standards: HTML5, CSS3                                         
 Software: Visual Studio Code
