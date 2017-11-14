@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Examination 1
+author: Lowe Marklund
 email: lm222qb@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site made by Lowe Marklund for Examinination 1 in the course 1dv022
@@ -28,6 +29,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+include:
+  - "_img"
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
