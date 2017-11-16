@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /aboutme/
 ---
-![picture of my band and me](/_img/meintheband.png){:class="img-responsive"}
+![picture of my band and me](/_img/meintheband.jpg){:class="img-responsive"}
 
 Hi, my name is Lowe Marklund, I'm a 26 year old guy living in Helsingborg, Sweden. I have lived here since 2015 but I'm originally from a town called Boden up in the far north of Sweden. I'm a big music nerd so that is what I spend most of my free time pursuing. Playing guitar, writing songs, rehearsing etc. I play in a band called Twin Pyramid Complex,<a href="https://twinpyramidcomplex.bandcamp.com/album/jinx-equilibria" target="_blank"> listen our debut album we released earlier this summer!</a> When I'm not working on music I like to make art in photoshop. <a href="https://www.instagram.com/lowe_marklund/" target="_blank"> Check out my instagram!</a> 
 

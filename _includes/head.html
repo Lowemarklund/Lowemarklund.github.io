@@ -34,6 +34,7 @@
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
+{% if page.image %}
   <meta content="{{ page.image }}" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/_img/zebror.png" property="og:image">
