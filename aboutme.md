@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
-
+permalink: /aboutme/
 ---
 ![picture of my band and me](/_img/meintheband.png){:class="img-responsive"}
 
