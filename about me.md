@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+
 ---
 ![picture of my band and me](/_img/meintheband.png){:class="img-responsive"}
 
