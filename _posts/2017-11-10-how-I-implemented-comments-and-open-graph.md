@@ -10,4 +10,4 @@ Creating the comment section for these blog posts I used the comment hosting ser
 ## Open Graph
 Open Graph is a technology first introduced by Facebook in 2010 and is a method of including meta information in a web page to allow an accurate represention of the page's content when it is linked to or posted on a social network. I works by placing meta-tags in the head section of the html file. The tags specify what should be used as title, description, image etc. when the page is linked on a social network. If nothing is specified the social network itself chooses what title, description or image to use which can result in random and unwanted results.
 
-I created Open Grapgh information for site name, title, type, description, url and image.
+I created Open Graph information for site name, title, type, description, url and image.
