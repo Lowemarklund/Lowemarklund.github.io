@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Music
+type: Music
 permalink: /music/
 image: /_img/musicimage.jpg
 ---

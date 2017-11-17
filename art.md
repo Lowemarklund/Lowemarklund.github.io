@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Art
+type: Images
 permalink: /art/
 ---
 
