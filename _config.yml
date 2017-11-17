@@ -19,7 +19,7 @@ email: lm222qb@student.lnu.se
 description: >-
   This is a site made by Lowe Marklund for Examinination 1 in the course 1dv022
   at the Linnæus University
-baseurl: /home # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lowemarklund.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lowemarklund
 github_username:  Lowemarklund
